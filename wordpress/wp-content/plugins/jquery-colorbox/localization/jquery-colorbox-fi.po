@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 21:29+0100\n"
+"PO-Revision-Date: 2012-09-23 21:29+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Techotronic <blog@techotronic.de>\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr ""
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "Teema #1"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "Teema #2"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "Teema #3"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "Teema #4"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "Teema #5"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "Teema #6"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "Teema #7"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "Teema #8"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "Teema #9"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "Teema #10"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "Teema #11"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "Teema #12"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "Teema #13"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "Teema #14"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "Teema #15"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "prosenttia"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "pikseliä"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "elastinen"
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "häivytys"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "ei mitään"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "%1$s asetukset päivitetty onnistuneesti."
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$s asetukset poistettu onnistuneesti."
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr ""
+"huomioitavaa: Lisäosa ei ole aktivoitu toimimaan kaikkien kuvien kanssa."
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "Asetukset"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "Asetuksia ei päivitetty, sinulla ei ole tarvittavia oikeuksia."
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"%1$s asetuksia ei poistettu. Joko sinulla ei ole tarvittavia oikeuksia tai "
+"et valinnut valintaruutua."
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "Käyttäen"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "sulje"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "seuraava"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "edellinen"
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "aloita diaesitys"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "lopeta diaesitys"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{current} / {total} kuvasta"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr ""
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr ""
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "%1$s Asetukset"
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "Colorbox asetukset"
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "Teema"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr "Valitse teema jota haluat käyttää blogissasi."
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "Teeman kuvankaappaus"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "Lisää diaesitys ryhmille"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "Lisää diaesitys toiminto %1$s ryhmille"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "Aloita diaesitys automaattisesti"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr ""
+"Aloita diaesitys automaattisesti jos diaesitys toiminto on lisätty %1$s "
+"ryhmille"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "Diaesityksen nopeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "millisekuntia"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "Asettaa diaesityksen nopeuden millisekunteina"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "Estä uudelleen toisto"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "Estä ryhmien toistaminen uudelleen"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "Estä näppäimistö komennot"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr ""
+"Estä sulkeminen ESC näppäimellä ja siirtyminen edelliseen tai seuraavaan "
+"nuolinäppäimillä"
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "Kuvan maksimi leveys"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "Älä aseta leveyttä"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "Aseta kuvan maksimi leveys"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"Aseta kuvan maksimi leveys Colorboxin sisällä suhteessa selaimen ikkunaan "
+"prosentteina tai pikseleinä. Jos maksimi leveyttä ei ole asetettu, kuva on "
+"yhtä leveä kuin Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "Kuvan maksimi korkeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "Älä aseta korkeutta"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "Aseta kuvan maksimi korkeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"Aseta kuvan maksimi korkeus Colorboxin sisällä suhteessa selaimen ikkunaan "
+"prosentteina tai pikseleinä. Jos maksimi korkeutta ei ole asetettu, kuva on "
+"yhtä korkea kuin Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "Colorboxin maksimi leveys"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "Aseta Colorboxin maksimi leveys"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"Aseta Colorboxin itsensä maksimi leveys suhteessa selaimen ikkunaan "
+"prosentteina tai pikseleinä. Jos kuva on isompi kuin Colorbox näytetään "
+"vierityspalkit. Jos leveyttä ei ole asetettu Colorboxin leveys on yhtä suuri "
+"kuin kuvan"
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "Colorboxin maksimi korkeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "Aseta Colorboxin maksimi korkeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"Aseta Colorboxin itsensä maksimi korkeus suhteessa selaimen ikkunaan "
+"prosentteina tai pikseleinä. Jos kuva on isompi kuin Colorbox näytetään "
+"vierityspalkit. Jos korkeutta ei ole asetettu Colorboxin korkeus on yhtä "
+"suuri kuin kuvan"
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "Colorboxin maksimi leveys kun näytetään linkki"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "Colorboxin maksimi korkeus kun näytetään linkki"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+msgid "Initial width of the Colorbox"
+msgstr "Colorboxin perus leveys"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "Aseta Colorboxin maksimi leveys ennen kuin sisältö on ladattu"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+msgid "Initial height of the Colorbox"
+msgstr "Colorboxin perus korkeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "Aseta Colorboxin maksimi korkeus ennen kuin sisältö on ladattu"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "Skaalaa kuvat"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"Jos tämä on valittu ja kuvien maksimi leveys, kuvien maksimi korkeus, "
+"Colorboxin leveys tai Colorboxin korkeus on asetettu, Colorbox skaalaa kuvat "
+"sopimaan noihin mittoihin"
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "Ulkopuolelle klikkaus sulkee Colorboxin"
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr ""
+"Jos valittuna, Colorboxin reunojen ulkopuolelle klikkaus sulkee Colorboxin"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "Esilataa kuvat"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"Sallii esilatauksen ryhmässä sisällölle \"seuraava\" ja \"edellinen\", sen "
+"jälkeen kun nykyinen sisältö on ladattu. Estä poistamalla valinta"
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "Siirtymän efekti"
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr ""
+"Colorboxin efektin tyyppi. Voidaan asettaa typpeihin \"elastinen\", "
+"\"häivytys\", tai \"ei mitään\""
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "Siirtymän nopeus"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr ""
+"Asettaa \"elastinen\" ja \"häivytys\" siirtymien nopeuden millisekunteina"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "Läpinäkyvyys"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "Taustan läpinäkyvyyden aste. Väliltä: 0-1"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Poista asetukset"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+"Valitse valintaruutu ja klikkaa tätä nappia poistaaksesi tämän lisäosan "
+"asetukset."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Jos haluat hieman (tai enemmän) auttaa tämän lisäosan tulevaisuuden "
+"kehittämistä. Ole hyvä ja tee lahjoitus."
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "Lahjoita Paypalin välityksellä"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Techotronic kehitystuki"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr ""
+"Ole hyvä ja täytä URL osoite, jos haluat minun linkittävän sinut "
+"lahjoittajien listaan"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Palaa ohjausnäkymään"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Valitse säännöllinen summa"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "USD"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Tai"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Syötä oma summa"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Lähetä"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "Suurimmat lahjoitukset"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr ""
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Viimeisimmät lahjoitukset"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "Lisäosan asetukset"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr ""
+"Automatisoi %1$s kaikille kuville sivuilla, artikkeleissa ja gallerioissa"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"Lisää colorbox-css luokka automaattisesti kuviin artikkeleissa ja sivuilla. "
+"Lisää colorbox-css luokkan myös gallerioihin. Kuvat yhdellä sivulla tai "
+"artikkelissa liitetään samaan ryhmään automaattisesti."
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "Automatisoi %1$s vain kuville Wordpressin gallerioissa"
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"Lisää colorbox-css luokka automaattisesti kuviin Wordpress gallerioissa, "
+"mutta ei muualla. Artikkelien ja sivujen kuvat litetään automaattisesti "
+"samaksi ryhmäksi."
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "Automatisoi %1$s kaikille muille kuville"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr ""
+"Lisää colorbox-css luokka automaattisesti kuville jotka eivät ole "
+"artikkeleissa tai sivuilla (esim. sivupalkki)."
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, fuzzy, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "Automatisoi %1$s kaikille muille kuville"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+#, fuzzy
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr ""
+"Lisää colorbox-css luokka automaattisesti kuville jotka eivät ole "
+"artikkeleissa tai sivuilla (esim. sivupalkki)."
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "Piilota Flash objektit automaattisesti"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr ""
+"Piilota automaattisesti Colorbox tason takana olevat upotetut flash objektit."
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "Lisää JavaScript sivun loppuosaan"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "Lisää JavaScript sivun loppuosaan alkuosan sijasta."
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "Poista linkki kuvan lisäys asetuksista"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "Poista linkki kehittäjien sivustolle Wordpressistä"
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr "Aseta virheenkorjaus (debug) moodi päälle"
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr ""
+"Lisää virheenkorjaustietoa ja ei minimoitua JavaScriptiä sivulle. "
+"Käytännällinen vian etsinnässä."
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "Piilota varoitus"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr ""
+"Piiloita varoitus joka näytetään kun lisäosa on aktivoitu, mutta ei ole "
+"kytketty päälle kaikille kuville."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "Käännös"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+"Suomenkielisen käännöksen on tehnyt <a href=\"http://www.merisaari.com"
+"\">Lauri Merisaari</a>."
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "Automatisoi %1$s kaikille kuville"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "Automatisoi %1$s kuville Wordpressin gallerioissa"
+
+#~ msgid "Make images draggable"
+#~ msgstr "Mahdollistaa kuvien raahaamisen"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "Tekee kuvista raahattavia vieritettävien sijasta"
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximum width of an image"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximum height of an image"
+
+#~ msgid "width"
+#~ msgstr "Maxinmum width of the Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximum height of the Colorbox"

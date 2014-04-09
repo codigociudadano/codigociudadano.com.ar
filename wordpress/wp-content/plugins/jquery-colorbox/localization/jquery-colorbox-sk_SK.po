@@ -1,0 +1,670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox 3.8.3 Arabic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-15 23:44+0100\n"
+"PO-Revision-Date: 2012-12-15 23:44+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Mickey Mouse <modarsoos@yahoo.com>\n"
+"Language: ar_SY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr "jQuery Colorbox"
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "Téma #1"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "Téma #2"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "Téma #3"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "Téma #4"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "Téma #5"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "Téma #6"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "Téma #7"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "Téma #8"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "Téma #9"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "Téma #10"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "Téma #11"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "Téma #12"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "Téma #13"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "Téma #14"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "Téma #15"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "percent"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "pixelov"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "elastické"
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "Fade"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "žiadny"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "Úspešne aktualizovaný %1$ s nastavenia."
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$ s nastavenia boli úspešne odstránené."
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr ""
+"potrebuje pozornosť: plugin nie je aktivovaná pracovať pre všetky obrázky."
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "Neaktualizoval nastavenia, nemáte potrebné práva."
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"Vari odstrániť %1$s nastavenia. Buď nemáte k nececssary práva alebo ste "
+"zaškrtnite políčko."
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "Pomocou"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "Zavrieť"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "ďalší"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "Predchádzajúci"
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "spustiť prezentáciu"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "zastaviť slideshow"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{aktuálny} {celková} obrazov"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr "Tento obsah sa nepodarilo načítať."
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr "Tento obrázok sa nepodarilo načítať."
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "%1$ s nastavenia"
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "ColorBox nastavenia"
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "Téma"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr "Vybrať tému, ktoré chcete použiť na svoj blog."
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "Téma screenshot"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "Pridať Slideshow skupinám"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "Pridať Slideshow funkcie pre %1$ s skupín"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "Automaticky spustiť Slideshow"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr ""
+"Spustiť prezentáciu automaticky, ak slideshow funkcie boli pridané k %1$s "
+"Skupiny"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "Rýchlosť prezentácie"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "milisekúnd"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "Nastaví rýchlosť prezentáciu, v milisekundách"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "Zakázať slučky"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "Zakázať smyčkování cez obrázok skupiny"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "Zakázať klávesy"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr ""
+"Zakázať ESC zatvorte ColorBox a klávesov so šípkami pre prechod na ďalšie a "
+"predchádzajúce obrázkov"
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "Maximálna šírka obrázku"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "Nastaviť šírku"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "Nastaví maximálnu šírku obrázka"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"Nastavte maximálnu šírku obrazu vo ColorBox vo vzťahu k okna prehliadača v "
+"percentách alebo pixeloch. Ak maximálna šírka nie je nastavená, obraz je "
+"rovnako široká ako ColorBox"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "Maximálna výška obrazu"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "Nastaviť výšku"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "Nastaviť maximálnu výšku obrazu"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"Nastavte maximálnu výšku obrázku v ColorBox vo vzťahu k okna prehliadača na "
+"hodnotu v percentách alebo pixeloch. Ak maximálna výška nie je nastavená, "
+"obraz je rovnako vysoká ako ColorBox"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "Maximálna šírka Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "Nastaviť šírku Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"Nastavte maximálnu šírku ColorBox sám vo vzťahu k okna prehliadača na "
+"hodnotu medzi v percentách alebo pixeloch. Ak je obrázok väčší než ColorBox, "
+"sú zobrazené posuvníky. Ak šírka je nastavená, budú ColorBox byť rovnako "
+"široká ako na obrázku v ňom"
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "Maximálna výška Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "Nastaviť výšku Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"Nastavte maximálnu výšku ColorBox sám vo vzťahu k okna prehliadača na "
+"hodnotu medzi v percentách alebo pixeloch. Ak je obrázok väčší než ColorBox, "
+"sú zobrazené posuvníky. Ak výška je nastavená, budú ColorBox byť tak vysoké "
+"ako na obrázku v ňom"
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "Maximálna šírka Colorbox prepojení"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "Maximálna výška Colorbox prepojení"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+msgid "Initial width of the Colorbox"
+msgstr "Počiatočné šírka Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "Nastavená maximálna šírka Colorbox pred je načítaný obsah"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+msgid "Initial height of the Colorbox"
+msgstr "Počiatočná výška Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "Nastavená maximálna výška Colorbox pred je načítaný obsah"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "Veľkosť obrázkov"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"Ak je aktivovaný a ak je maximálna šírka obrázkov, maximálna výška obrázkov, "
+"šírka ColorBox, alebo výška ColorBox boli definované, bude ColorBox mierka "
+"fotografií prispôsobiť v rámci týchto hodnôt"
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "Kliknite na tlačidlo Zavrieť Colorbox na prekrytie"
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "Predbežné načítanie obrázkov"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "Typ prechodu"
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr ""
+"Prechod typ ColorBox. Môže byť nastavený na \"elastic\", \"fade\", or \"none"
+"\""
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "Rýchlosť prechodu"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr "Nastavuje rýchlosť  \"fade\" and \"elastic\"prechody, v milisekundách"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "Nepriehľadnosť"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "Prekrytie krytie na úrovni. Rozsah: 0-1"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Odstrániť nastavenia"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+"Začiarknite políčko a kliknite na toto tlačidlo Odstrániť nastavenia tohto "
+"pluginu.ضع علامة في المربع واضغط على زر حذف الإعدادات ليتم حذف إعدادات "
+"البرنامج."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Darovať"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Ak by ste chceli, aby sa malý (alebo veľký) prispieť k budúcemu rozvoju "
+"zvážte prosím poskytnutia daru."
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "Darovať cez Paypal"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Podporu rozvoja Techotronic"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr "Zadajte adresu URL by ste mi odkaz v zozname darcov"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Návrat na palubnej doske"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Vyberte prednastavený typ sumy"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "USD"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Alebo"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Zadajte vlastné čiastku"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Predložiť"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "Top dary"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr "Ďakujeme vám za váš dar."
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Najnovšie dary"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "Plugin nastavenia"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr "Automatizovať %1$ s pre všetky obrázky v stránok, príspevky a galérií"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"Automaticky pridať ColorBox-triedu obrázkov v príspevkoch a stránok. Tiež "
+"dodáva, ColorBox-triedu do galérií. Obrázky v jednej stránky alebo poštou sú "
+"zoskupené automaticky."
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "Automatizovať %1$ s pre obrázky v WordPress galérie iba"
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"Automaticky pridať ColorBox-triedu obrázkov v galériach WordPress, ale nikde "
+"inde. Obrázky v jednej stránky alebo poštou sú zoskupené automaticky."
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "Automatizovať %1$ s pre všetky ostatné obrázky"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr ""
+"Automaticky pridať ColorBox-trieda pre všetky zábery, ktoré nie sú vo vašom "
+"príspevku stránok (napr. rámček)."
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "Automatizovať %1$ s pre všetky textové odkazy na obrázky"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr ""
+"Automaticky pridať ColorBox-link-trieda pre všetky odkazy, ktoré ukazujú na "
+"obrazy."
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "Automatizovať schováva flash objektov"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr "Automaticky skryť embeded flash objekty za Colorbox vrstvu."
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr "Pridať prekrytie Zoom do obrázkov"
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr "Pridať prekryv Zoom do obrázkov, ktoré otvárajú v Colorbox."
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr "Použitie jQuery knižnice od Google"
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+"Pomocou jQuery knižnicu verzia %1$s  od Google namiesto toho, ktorý "
+"prichádza s WordPress."
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "Pridať JavaScript na päty"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "Pridať JavaScript footer miesto v hlavičke."
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "Odstrániť odkaz z Meta-box"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "Odstrániť prepojenie na lokalitu vývojári z WordPress meta-box."
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr "Aktivovať režim ladenia"
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr ""
+"Pridá ladiace informácie a non-minified JavaScript na stránke. Užitočné pre "
+"riešenie problémov."
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "Zakázať upozornenie"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr ""
+"Zakáže varovanie, že sa zobrazí v prípade, že plugin je aktívny, ale auto-"
+"ColorBox funkcie u všetkých snímok je vypnutý."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "Preklad"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+"Anglický preklad bol vykonaný <a href=\"http://www.techotronic.de\"> Arne "
+"Franken </ a>."
+
+#~ msgid "Make images draggable"
+#~ msgstr "Make obrázky draggable"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "Make obrázky draggable namiesto posúvateľný"
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "Automatizovať %1$ s pre všetky obrázky"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "Automatizovať %1$ s obrázkov v galérií WordPress"
+
+#~ msgid "does not work with PHP 4. Please update or uninstall the plugin."
+#~ msgstr "nepracuje s PHP 4. Aktualizujte alebo odinštalovať plugin."
+
+#~ msgid "maxWidth"
+#~ msgstr "maxWidth"
+
+#~ msgid "maxHeight"
+#~ msgstr "maxHeight"
+
+#~ msgid "width"
+#~ msgstr "šírka"
+
+#~ msgid "height"
+#~ msgstr "výška"

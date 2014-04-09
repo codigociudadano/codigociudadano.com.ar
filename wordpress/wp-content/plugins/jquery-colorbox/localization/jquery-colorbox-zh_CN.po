@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 21:31+0100\n"
+"PO-Revision-Date: 2012-09-23 21:31+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Techotronic <blog@techotronic.de>\n"
+"Language: en_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr ""
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "主题 #1"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "主题 #2"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "主题 #3"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "主题 #4"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "主题 #5"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "主题 #6"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "主题 #7"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "主题 #8"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "主题 #9"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "主题 #10"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "主题 #11"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "主题 #12"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "主题 #13"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "主题 #14"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "主题 #15"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "百分比"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "像素"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "弹出效果"
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "渐变效果"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "无"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "成功更新%1$s项设置"
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$s项设置已成功删除"
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr "注意：插件没有激活为“适用于所有图像”"
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "设置"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "未更新设置，您没有需要的权限。"
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr "未删除%1$s项设置，您没有需要的权限或者您没有勾选复选框。"
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "使用"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "关闭"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "下一张"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "上一张"
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "开始幻灯片放映"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "停止幻灯片放映"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{total}张图像中的第{current}张"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr ""
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr ""
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "%1$s项设置"
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "Colorbox设置"
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "主题"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr "选择想用于您的博客的主题"
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "主题预览"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "在组中使用幻灯片播放"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "为%1$s组中的图像启用幻灯片播放功能"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "自动开始幻灯片播放"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr "如果启用幻灯片播放功能，%1$s组中的图像将自动以幻灯片方式播放"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "幻灯片切换速度"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "毫秒"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "设置幻灯片切换速度，单位毫秒"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "禁用循环"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "勾选将禁用在组中循环播放图像"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "禁用快捷键"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr "勾选将禁用使用ESC关闭Colorbox和使用左右方向键切换到下一张和上一张图像"
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "图像最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "不设置最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "设置图像最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"设置在Colorbox打开图像时的最大宽度（相对于浏览窗口的百分比或者点）。如果没有"
+"设置最大宽度，图像宽度等于Colorbox自身宽度。"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "图像最大高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "不设置最大高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "设置图像最大高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"设置在Colorbox打开图像时的最大高度（相对于浏览窗口的百分比或者点）。如果没有"
+"设置最大高度，图像宽度等于Colorbox自身高度。"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "Colorbox自身的最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "设置Colorbox自身的宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"设置在Colorbox自身的最大宽度（相对于浏览窗口的百分比或者点）。如果图像大于"
+"Colorbox自身的宽度，将显示滚动条。如果没有设置Colorbox自身的宽度，Colorbox自"
+"身的宽度等于图像的宽度。"
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "Colorbox自身的高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "设置Colorbox自身的高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"设置在Colorbox自身的最大高度（相对于浏览窗口的百分比或者点）。如果图像大于"
+"Colorbox自身的高度，将显示滚动条。如果没有设置Colorbox自身的高度，Colorbox自"
+"身的宽度等于图像的高度。"
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "打开超链接时Colorbox自身的最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "打开超链接时Colorbox自身的最大高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+msgid "Initial width of the Colorbox"
+msgstr "初始化Colorbox自身的宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "设置在图像被加载完毕前Colorbox自身的最大宽度"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+msgid "Initial height of the Colorbox"
+msgstr "初始化Colorbox自身的高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "设置在图像被加载完毕前Colorbox自身的最大高度"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "调整图像"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"如果启用并且已经定义图像的最大宽高、Colorbox自身的宽高，Colorbox将按比例调整"
+"图像以适应边框"
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "点击背景关闭Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr "如果选中复选框，将允许您点击背景关闭Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "预加载图像"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"允许在当前图像完成加载之后预加载图集的\"下一张\"和\"上一张\" 图像。反选复选框"
+"禁用。"
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "过渡效果"
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr "Colorbox的过渡效果可以设置为\"弹出\", \"渐变\", or \"无\""
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "过渡速度"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr "设置\"渐变\"和\"弹出\"过渡的速度，单位毫秒"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "不透明度"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "不透明度的级别。参数范围：0到1之间"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "删除设置"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr "选中复选框并点击按钮，以删除插件的设置。"
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "捐赠"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr "如果您希望对我们未来的发展做或多或少的贡献，请考虑捐赠吧。"
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "使用Paypay捐赠"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Techotronic 开发支持"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr "请输入您想链接到捐赠者名单的网址"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "回到Dashboard"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "选择金额"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "美金"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "或者"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "输入自选金额"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "提交"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "捐赠排行榜"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr ""
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "最新捐赠名单"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "插件设置"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr "自动为页面，日志和库中的所有图像使用%1$s"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"自动在日志和页面中添加Colorbox代码，同时在库中添加Colorbox效果。同一页面或者"
+"日志中的图像会自动排列。"
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "自动仅在WordPress库中使用%1$s"
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"自动仅在Wordpress库中添加Colorbox代码。同一页面或者日志中的图像会自动排列。"
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "自动为所有其它图像使用%1$s"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr "自动在不在日志和页面中的图像（比如侧边栏）添加colorbox代码。"
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, fuzzy, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "自动为所有其它图像使用%1$s"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+#, fuzzy
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr "自动在不在日志和页面中的图像（比如侧边栏）添加colorbox代码。"
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "自动隐藏Flash对象"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr "自动将flash对象隐藏到Colorbox层后面。"
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "在页面底部添加JavaScript"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "将JavaScript添加到页面底部而不是顶部"
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "从元信息中移除链接"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "从Wordpress的元信息中移除开发者网站的链接"
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr "激活调试模式"
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr "添加调试信息和完整的JavaScript到页面中。对排除故障有帮助。"
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "禁用警告"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr "不显示插件激活但是对于所有图片关闭Colorbox使用效果的警告信息。"
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "翻译"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+"The Simplified Chinese translation was done by <a href=\"http://www.yiandya."
+"com\">Lucas</a>."
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "自动为所有图像使用%1$s"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "自动在WordPress库中使用%1$s"
+
+#~ msgid "Make images draggable"
+#~ msgstr "使图像可拖动"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "用图像拖动来代替图像滚动"
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximum width of an image"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximum height of an image"
+
+#~ msgid "width"
+#~ msgstr "Maxinmum width of the Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximum height of the Colorbox"

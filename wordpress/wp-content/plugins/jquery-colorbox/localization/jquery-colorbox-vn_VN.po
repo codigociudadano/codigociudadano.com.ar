@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 21:31+0100\n"
+"PO-Revision-Date: 2012-09-23 21:31+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Techfacts <martin@techfacts.net>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr "jQuery ColorBox"
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "chủ đề #1"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "chủ đề #2"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "chủ đề #3"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "chủ đề #4"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "chủ đề #5"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "chủ đề #6"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "chủ đề #7"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "chủ đề #8"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "chủ đề #9"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "chủ đề #10"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "chủ đề #11"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "chủ đề #12"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "chủ đề #13"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "chủ đề #14"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "chủ đề #15"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "phần trăm"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "pixels"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "dễ dai "
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "phai đi"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "không hiệu lực"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr " %1$s cài đặt đã được lưu lại"
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr " %1$s cài đặt đã bị xóa"
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr "cần sự chú ý : das Plugin ist nicht f&uuml;r alle Bilder aktiviert."
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "cài đặt"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "Không cập nhật được cài đặt vì bạn không có các quyền làm vậy."
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"Cài đặ tcủa %1$s không thể xóa.Bạn không có quền hoạc bạn đã quên bật "
+"Checkbox."
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "sử dụng"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "đóng"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "tiếp theo"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "Trở lại."
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "Bắt đầu slideshow"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "Dừng lại slideshow"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{current} của {total} ảnh"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr ""
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr ""
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "cài đặt %1$s "
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "Cài đặt Colorbox "
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "chủ đề"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr " Hãy chọn chù đề bạn mốun dùng ở blog của bạn."
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "Screenshot của chủ đề"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "Thêm Slideshow vào các nhóm"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "Thêm chức năng Slideshow vào nhóm %1$s"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "Tự động bắt đầu Slideshow"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr ""
+"Bắt đầu Slideshow tự động nếu chức năng slideshow được thêm vào nhóm %1$s"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "Tốc độ của Slideshow"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "Milli giây"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "Thiết lập tốc độ của Slideshow bằng mili giây"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "Tắt vòng lặp"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "Tắt vòng lặp qua các nhóm hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "Tắt màn phím"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr "Tắt ESC để đóng Colorbox và các phím mũi tên để nhảy lại và tiếp theo"
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "Chiều rộng tối đa của một hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "Không thiết lập chiều rộng"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "Thiết lập chiều rộng tối đa của một hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"Thiết lập độ rộng tối đa của hình ảnh trong Colorbox trong liên quan đến "
+"trình duyệt window theo phần trăm hoặc pixel. Nếu chiều rộng tối đa không "
+"được thiết lập, hình ảnh rộng như Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "Chiều cao tối đa của một hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "không thiết lập chiều cao"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "Thiết lập chiều cao tối đa của một hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"Thiết lập chiều cao tối đa của hình ảnh trong Colorbox trong mối quan hệ với "
+"trình duyệt Window  đến một giá trị phần trăm hoặc pixel. Nếu chiều cao tối "
+"đa không được thiết lập, hình ảnh cao như Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "Chiều rộng tối đa của Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "Thiết lập chiều rộng của Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"Thiết lập độ rộng tối đa của Colorbox trong mối quan hệ với trình duyệt "
+"window đến một giá trị giữa phần trăm hoặc pixel. Nếu hình ảnh lớn hơn "
+"Colorbox, scrollbars được hiển thị. Nếu chiều rộng không được thiết lập,"
+"colorbox sẽ được rộng như hình ảnh trong đó"
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "Chiều cao tối đa của colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "Thiết lập chiều cao của Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"Thiết lập chiều cao tối đa của colorbox trong mối quan hệ với trình duyệt "
+"window đến một giá trị giữa phần trăm hoặc pixel. Nếu hình ảnh lớn hơn "
+"Colorbox scrollbars được hiển thị. Nếu chiều cao không được thiết lập,"
+"colorbox sẽ được cao như hình ảnh trong đó"
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "Chiều rộng tối đa của Colorbox được sử dụng cho các liên kết (links)"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "Chiều cao tối đa của Colorbox được sử dụng cho các liên kết (links)"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+msgid "Initial width of the Colorbox"
+msgstr "Chiều rộng ban đầu của Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "Thiết lập độ rộng tối đa của colorbox trước khi nội dung được tải"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+msgid "Initial height of the Colorbox"
+msgstr "Chiều cao ban đầu của Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "Thiết lập chiều cao tối đa của Colorbox trước khi nội dung được tải"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "Thay đổi kích thước hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"Nếu được kích hoạt và nếu chiều rộng tối đa của hình ảnh, chiều cao tối đa "
+"của hình ảnh, chiều rộng của Colorbox hoặc chiều cao của Colorbox đã được "
+"xác định,Colorbox sẽ có quy mô ảnh để phù hợp trong các giá trị đó"
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "Đóng Colorbox bằng cách bấm trên lớp phủ "
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr "Nếu kiểm tra, cho phép đóng Colorbox bằng cách bấm vào lớp phủ nền"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "Tải trước hình ảnh"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"Cho phép nạp trước của \"next\" và \"previous\" trong một nhóm, sau khi nội "
+"dung hiện tại đã tải xong. Bỏ chọn hộp để xoá"
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "cách chyển đổi quá trình "
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr ""
+"Các loại chuyển tiếp của Colorbox. Có thể được thiết lập để \"elastic\", "
+"\"fade\", or \"none\""
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "Tốc độ của quá trình chyển đổi"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr "Tốc độ của \"fade\" và \"elastic\" quá trình chuyển đổi bằng mili giây"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "Opacity"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "Mức độ mờ lớp phủ. Phạm vi: 0-1"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "lưu lại thay đổi "
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Xóa cài đặt"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr "Hãy xem lại Checkbox và bấm vào đây để xóa  cài đặt của Plugin này."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Từ thiện"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Nếu bạn muốn đóng góp một phần nhỏ (hoặc lớn) để giúp đỡ  phát triển trong "
+"tương lai,xin hãy xem xét việc từ thiện."
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "Từ thiện bàng Paypal"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Hỗ chợ Techotronic phát triển"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr ""
+"Xin vui lòng đưa địa chỉ URL, mà tôi sẽ liên kết vào danh sách các nhà tài "
+"trợ."
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Trở lại quản trị"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Chọn số lượng đã được chỉ"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "Đô la Mỹ"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Hoạc"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Nhập số lượng riêng "
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Gửi"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "Từ thiện cao nhất"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr ""
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Từ thiện gần đây nhất"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "Cài đặt Plugin"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr ""
+"Tự động hóa %1$s cho tất cả các hình ảnh trong các trang, bài viết và phòng "
+"trưng bày"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"Tự động thêm colorbox-class để đăng các ảnh vào bài viết và các trang. Vì "
+"vậy cho thêm  colorbox-class vào phòng trưng bầy. Hình ảnh trong một trang "
+"hoặc bài viết được nhóm lại một cách tự động."
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "Tự động hóa %1$s cho hình ảnh trong phòng trưng bày WordPress"
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"Tự động thêm colorbox-class để các hình ảnh trong phòng trưng bày WordPress, "
+"và không ở nơi nào khác. Hình ảnh trong một trang hoặc bài viết được nhóm "
+"lại một cách tự động."
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "Tự động hóa %1$s cho tất cả các hình ảnh khác"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr ""
+"Tự động thêm collorbox-class với tất cả các hình ảnh mà không trong bài viết "
+"và các trang (ví dụ như sidebar)."
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, fuzzy, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "Tự động hóa %1$s cho tất cả các hình ảnh khác"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+#, fuzzy
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr ""
+"Tự động thêm collorbox-class với tất cả các hình ảnh mà không trong bài viết "
+"và các trang (ví dụ như sidebar)."
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "Tự động dấu các đối tượng flash"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr "Tự động dấu đối tượng flash sau Colorbox layer. "
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "Thêm JavaScript vào Footer"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "Thêm JavaScript vào trong Footer thay cho Header"
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "Xóa link trong Meta-Box"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "Xóa các link về  những người thiết lập  từ hộp meta WordPress."
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr "Bật chế độ gỡ lỗi (debug)"
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr ""
+"Thêm thông tin về gỡ lỗi( debug) và không  cho JavaScript vào trang. Hữu ích "
+"cho xử lý sự cố."
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "Tắt cảnh báo"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr ""
+"Tắt các cảnh báo được hiển thị nếu plugin đang được sử dụng nhưng tính năng "
+"sự tự động auto-colorbox feature cho tất cả các hình ảnh đã tắt."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "Dịch"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+" Bản tiếng Việt đã được dịch bởi <a href=\"http://www.techfacts.net"
+"\">Techfacts Computer Magazin</a>."
+
+#~ msgid "Make images draggable"
+#~ msgstr "Làm hình ảnh có thể di chyển"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "Làm hình ảnh có thể di chyển thay cho scroll"
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "%1$s f&uuml;r alle Bilder automatisieren"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "%1$s f&uuml;r Bilder in WordPress Gallerien automatisieren"
+
+#~ msgid "does not work with PHP 4. Please update or uninstall the plugin."
+#~ msgstr ""
+#~ "funktioniert nicht mit PHP 4. Bitte f&uuml;hre ein Update durch oder "
+#~ "deinstalliere das Plugin."
+
+#~ msgid "Automate jQuery Colorbox"
+#~ msgstr "Colorbox automatisieren"
+
+#~ msgid "Do not set maximum width"
+#~ msgstr "Maximale Breite nicht setzen"
+
+#~ msgid "Do not set maximum height"
+#~ msgstr "Die maximale H&ouml;he nicht setzen"
+
+#~ msgid "Set width of an image"
+#~ msgstr "Maximale Breite eines Bildes setzen"
+
+#~ msgid "Set height of an image"
+#~ msgstr "Maximale H&ouml;he eines Bildes setzen"
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximale Breite des Bildes"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximale H&ouml;he des Bildes"
+
+#~ msgid "width"
+#~ msgstr "Maximale Breite der Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximale H&ouml;he der Colorbox"
+
+#~ msgid "Enable Automatic"
+#~ msgstr "Automatismus aktivieren"
+
+#~ msgid "You can disable the colorbox effect from the Wordpress editor."
+#~ msgstr "Du kannst den Colorbox Effekt im Wordpress Editor abschalten."

@@ -1,0 +1,670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 21:30+0100\n"
+"PO-Revision-Date: 2012-09-23 21:30+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Lapuvieta.lv <info@lapuvieta.lv>\n"
+"Language: lv_LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr ""
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "Ādiņa #1"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "Ādiņa #2"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "Ādiņa #3"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "Ādiņa #4"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "Ādiņa #5"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "Ādiņa #6"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "Ādiņa #7"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "Ādiņa #8"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "Ādiņa #9"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "Ādiņa #10"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "Ādiņa #11"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "Ādiņa #12"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "Ādiņa #13"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "Ādiņa #14"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "Ādiņa #15"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "procenti"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "pikseļi"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "elastīgi"
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "izbalēt"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "nekas"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "Veiksmīgi saglabāti %1$s iestatījumi."
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$s iestatījumi veiksmīgi izdzēsti."
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr ""
+"jāpievērš uzmanība: spraudnis nav aktivizēts, lai darbotos ar visiem "
+"attēliem."
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "Iestatījumi nav izmainīti. Tev nav nepieciešamo tiesību."
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"Iestatījumi %1$s netika izdzēsti. Vai nu Tev nav nepieciešamo tiesību vai "
+"arī aizmirsi ielikt ķeksīti rūtiņā."
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "Lietojot"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "aizvērt"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "nākošais"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "iepriekšējais"
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "sākt slīdrādi"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "apturēt slīdrādi"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{current} no {total} attēliem"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr ""
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr ""
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "%1$s Iestatījumi"
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "Colorbox iestatījumi"
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "Ādiņa"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr "Izvēlies ādiņu, kādu vēlies lietot savā emuārā"
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "Ādiņas ekrānšāviņš"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "Pievienot slīdrādi grupām"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "Pievienot slīdrādes funkcionalitāti %1$s grupām"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "Sākt slīdrādi automātiski"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr ""
+"Sākt slīdrādi automātiski, ja slīdrādes funkcionalitāte ir pievienota %1$s "
+"grupām"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "Slīdrādes demonstrēšanas ātrums"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "milisekundes"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "Uzstāda slīdrādes demonstrēšanas ātrumu milisekundēs"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "Atslēgt ciklu"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "Atslēgt ciklošanu pa attēlu grupām"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "Atslēgt taustiņus"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr ""
+"Atslēgt Esc Colorbox aizvēršanai un virziena taustiņus kustībai uz nākošo un "
+"iepriekšējo attēlu"
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "Maksimālais attēla platums"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "Neuzstādīt platumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "Uzstādīt maksimālo attēla platumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"Uzstāda attēla maksimālo platumu Colorbox ietvarā, attiecībā pret pārlūka "
+"logu procentos vai pikseļos. Ja maksimalais platums nav uzstādīts, attēls ir "
+"tik pat plats kā Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "Maksimālais attēla augstums"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "Neuzstādīt augstumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "Uzstādīt maksimalo attēla augstumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"Uzstāda attēla maksimālo augstumu Colorbox ietvarā, attiecībā pret pārlūka "
+"logu procentos vai pikseļos. Ja maksimalais augstums nav uzstādīts, attēls "
+"ir tik pat augsts kā Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "Maksimalais Colorbox platums"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "Uzstādīt Colorbox platumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"Uzstāda paša Colorbox platumu, attiecībā pret pārlūka logu procentos vai "
+"pikseļos. Ja attēls ir lielāks kā Colorbox, tiek pievienotas ritjoslas. Ja "
+"platums nav uzstādīts, Colorbox būs tik pat plats kā tajā esošais attēls."
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "Maksimālais Colorbox augstums"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "Uzstādīt Colorbox augstumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"Uzstāda paša Colorbox augstumu, attiecībā pret pārlūka logu procentos vai "
+"pikseļos. Ja attēls ir lielāks kā Colorbox, tiek pievienotas ritjoslas. Ja "
+"augstums nav uzstādīts, Colorbox būs tik pat augsts kā tajā esošais attēls."
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "Maksimālais Colorbox platums, kas tiek izmantots saitēm"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "Maksimālais Colorbox augstums, kas tiek izmantots saitēm"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+#, fuzzy
+msgid "Initial width of the Colorbox"
+msgstr "Uzstādīt Colorbox platumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+#, fuzzy
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "Maksimālais Colorbox platums, kas tiek izmantots saitēm"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+#, fuzzy
+msgid "Initial height of the Colorbox"
+msgstr "Uzstādīt Colorbox augstumu"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+#, fuzzy
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "Maksimālais Colorbox augstums, kas tiek izmantots saitēm"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "Mainīt attēlu izmērus"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"Ja ir ieslēgts un ir definēts attēla maksimālais platums un augstums, kā arī "
+"Colorbox platums un augstums, attēlu izmēri tiks mainīti, lai apmierinātu "
+"visus šos izmērus."
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "Aizvērt Colorbox klikšķinot uz pārklajuma"
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr "Ja ir ieslēgts, ļauj aizvērt Colorbox klikškinot uz fona pārklājuma"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "Iepriekšielādēt attēlus"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"Ļauj iepriekšielādēt nākošo un iepriekšējo grupas saturu, līdzko ir pabeigta "
+"tekošā satura ielāde. Izņem ķeksi no rūtiņas, lai izslēgtu"
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "Pārejas tips"
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr ""
+"Colorbox pārejas tips. Var tikt uzstādītas sekojošas vērtības: elastīgi, "
+"izbalet vai nekas"
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "Pārejas ātrums"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr "Uzstāda izbalēt un elastigi pāreju ātrumu milisekundēs"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "Caurspīdīgums"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "Pārklājuma caurspīdīguma līmenis. Robežās no 0 līdz 1"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "Saglabāt izmaiņas"
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Dzēst iestatījumus"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+"Ieliec ķeksīti un klikšķini uz pogas, lai dzēstu spraudņa iestatījumus."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Ziedot"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Ja vēlies veikt nelielu (vai, varbūt, lielu) ieguldījumu izstrādei nakotnē, "
+"lūdzu apsver iespēju ziedot."
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "Ziedot, izmantojot PayPal"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Techotronic Development Atbalsts"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr ""
+"Lūdzu norādi URL uz kuru vēlies, lai izveidoju saiti no ziedotāju saraksta"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Atgriezties pie Darba galda"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Izvēlies iepriekšdefinētu apjomu"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "USD"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Vai"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Ievadi pielāgotu apjomu"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Nosūtīt"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "Lielākie ziedojumi"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr ""
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Pēdējie ziedojumi"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "Spraudņa iestatījumi"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr "Automatizēt %1$s visiem attēliem lapās, rakstos un galerijās"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"Automātiski pievienot colorbox-class attēliem rakstos un lapās. Tāpat "
+"pievienot colorbox-class galerijām. Attēli vienā lapā vai rakstā tiks "
+"grupēti automātiski."
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "Automatizēt  %1$s tikai WordPress galerijas attēliem "
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"Automātiski pievienot colorbox-class attēliem WordPress galerijās, bet nekur "
+"citur. Attēli vienā lapā vai rakstā tiks grupēti automātiski"
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "Automatizēt %1$s visiem pārējiem attēliem"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr ""
+"Automātiski pievienot colorbox-class visiem attēliem, kas nav ne rakstos un "
+"lapās (piem. sānu joslā)."
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, fuzzy, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "Automatizēt %1$s visiem pārējiem attēliem"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+#, fuzzy
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr ""
+"Automātiski pievienot colorbox-class visiem attēliem, kas nav ne rakstos un "
+"lapās (piem. sānu joslā)."
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "Automatizēt flash objektu paslēpšanu"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr "Automātiski slēpt iegultos flash objektus aiz Colorbox slāņa."
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "Pievienot JavaScript kājenē"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "Pievienot JavaScript kājenē nevis galvenē"
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "Aizvākt saiti no Meta-box"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "Aizvākt saiti uz izstrādātāju mājas lapu no WordPress meta-box."
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr "Aktivizēt atkļūdošanas režīmu"
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr ""
+"Pievieno lapai atkļūdošanas informāciju un ne-minimizetu JavaScript. "
+"Noderīgi kļūdu labošanai."
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "Atslēgt brīdinājumus"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr ""
+"Atslēdz brīdinājumu, kas tiek rādīts, ja spraudnis ir aktivizēts, bet auto-"
+"colorbox īpašība visiem attēliem ir atslēgta."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "Tulkojums"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+"Tulkojumu latviešu valodā veica <a href=\"http://lapuvieta.lv\">Uldis "
+"Jansons</a>."
+
+#~ msgid "Make images draggable"
+#~ msgstr "Padarīt attēlus velkamus"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "Padarīt attēlus velkamus nevis ritināmus"
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "Automatizēt %1$s visiem attēliem"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "Automatizēt %1$s attēliem WordPress galerijās"
+
+#~ msgid "does not work with PHP 4. Please update or uninstall the plugin."
+#~ msgstr "ar PHP4 nestrādā. Modernizē PHP vai atsakies no spraudņa."
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximum width of an image"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximum height of an image"
+
+#~ msgid "width"
+#~ msgstr "Maxinmum width of the Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximum height of the Colorbox"

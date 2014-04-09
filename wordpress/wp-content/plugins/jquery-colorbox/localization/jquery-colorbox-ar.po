@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Colorbox 3.8.3 Arabic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 21:26+0100\n"
+"PO-Revision-Date: 2012-09-23 21:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Mickey Mouse <modarsoos@yahoo.com>\n"
+"Language: ar_SY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-colorbox.php:37
+msgid "jQuery Colorbox"
+msgstr ""
+
+#: jquery-colorbox.php:98
+msgid "Theme #1"
+msgstr "القالب الأول"
+
+#: jquery-colorbox.php:99
+msgid "Theme #2"
+msgstr "القالب الثاني"
+
+#: jquery-colorbox.php:100
+msgid "Theme #3"
+msgstr "القالب الثالث"
+
+#: jquery-colorbox.php:101
+msgid "Theme #4"
+msgstr "القالب الرابع"
+
+#: jquery-colorbox.php:102
+msgid "Theme #5"
+msgstr "القالب الخامس"
+
+#: jquery-colorbox.php:103
+msgid "Theme #6"
+msgstr "القالب السادس"
+
+#: jquery-colorbox.php:104
+msgid "Theme #7"
+msgstr "القالب السابع"
+
+#: jquery-colorbox.php:105
+msgid "Theme #8"
+msgstr "القالب الثامن"
+
+#: jquery-colorbox.php:106
+msgid "Theme #9"
+msgstr "القالب التاسع"
+
+#: jquery-colorbox.php:107
+msgid "Theme #10"
+msgstr "القالب العاشر"
+
+#: jquery-colorbox.php:108
+msgid "Theme #11"
+msgstr "القالب الحادي عشر"
+
+#: jquery-colorbox.php:114
+msgid "Theme #12"
+msgstr "القالب الثاني عشر"
+
+#: jquery-colorbox.php:115
+msgid "Theme #13"
+msgstr "القالب الثالث عشر"
+
+#: jquery-colorbox.php:116
+msgid "Theme #14"
+msgstr "القالب الرابع عشر"
+
+#: jquery-colorbox.php:117
+msgid "Theme #15"
+msgstr "القالب الخامس عشر"
+
+#: jquery-colorbox.php:122
+msgid "percent"
+msgstr "بالمئة"
+
+#: jquery-colorbox.php:123 includes/settings-page/sp-colorbox-settings.php:248
+#: includes/settings-page/sp-colorbox-settings.php:257
+msgid "pixels"
+msgstr "بيكسل"
+
+#: jquery-colorbox.php:128
+msgid "elastic"
+msgstr "تمدد"
+
+#: jquery-colorbox.php:129
+msgid "fade"
+msgstr "تضاءل"
+
+#: jquery-colorbox.php:130
+msgid "none"
+msgstr "بدون تأثير"
+
+#: includes/jquery-colorbox-backend.php:84
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "تم تحديث إعدادات برنامج %1$s بنجاح."
+
+#: includes/jquery-colorbox-backend.php:86
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$s تم حذف الإعدادات بنجاح."
+
+#: includes/jquery-colorbox-backend.php:111
+msgid "needs attention: the plugin is not activated to work for all images."
+msgstr "تنبيه: لم يتم تنشيط برنامج صندوق عرض الشرائح ليعمل على جميع الصور."
+
+#: includes/jquery-colorbox-backend.php:132
+msgid "Settings"
+msgstr "إعدادات"
+
+#: includes/jquery-colorbox-backend.php:154
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "لم يتم تحديث الإعدادات، ليس لديك الصلاحيات الكافية."
+
+#: includes/jquery-colorbox-backend.php:187
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"لم يتم حذف إعدادات %1$s  أو ليس لديك الصلاحيات الكافية أو بأنك لم تقم بتحديد "
+"العلامة داخل المربع الصغير قبل الضغط على زر حذف الإعدادات."
+
+#: includes/jquery-colorbox-frontend.php:65
+msgid "Using"
+msgstr "أستخدم معرض صور"
+
+#: includes/jquery-colorbox-frontend.php:175
+msgid "close"
+msgstr "إغلاق"
+
+#: includes/jquery-colorbox-frontend.php:176
+msgid "next"
+msgstr "التالي"
+
+#: includes/jquery-colorbox-frontend.php:177
+msgid "previous"
+msgstr "السابق"
+
+#: includes/jquery-colorbox-frontend.php:178
+msgid "start slideshow"
+msgstr "بدء عرض الشرائح"
+
+#: includes/jquery-colorbox-frontend.php:179
+msgid "stop slideshow"
+msgstr "إيقاف عرض الشرائح"
+
+#: includes/jquery-colorbox-frontend.php:180
+msgid "{current} of {total} images"
+msgstr "{current} من {total} إجمالي الصور"
+
+#: includes/jquery-colorbox-frontend.php:181
+msgid "This content failed to load."
+msgstr ""
+
+#: includes/jquery-colorbox-frontend.php:182
+msgid "This image failed to load."
+msgstr ""
+
+#: includes/settings-page.php:18
+#, php-format
+msgid "%1$s Settings"
+msgstr "إعدادات %1$s"
+
+#: includes/settings-page/sp-colorbox-settings.php:13
+msgid "Colorbox settings"
+msgstr "إعدادات Colorbox"
+
+#: includes/settings-page/sp-colorbox-settings.php:20
+msgid "Theme"
+msgstr "حدد القالب"
+
+#: includes/settings-page/sp-colorbox-settings.php:32
+msgid "Select the theme you want to use on your blog."
+msgstr "حدد القالب الذي تريد استخدامه في موقعك من القائمة المنسدلة."
+
+#: includes/settings-page/sp-colorbox-settings.php:37
+msgid "Theme screenshot"
+msgstr "صورة القالب"
+
+#: includes/settings-page/sp-colorbox-settings.php:48
+msgid "Add Slideshow to groups"
+msgstr "إضافة عرض الشرائح للمجموعات"
+
+#: includes/settings-page/sp-colorbox-settings.php:53
+#, php-format
+msgid "Add Slideshow functionality for %1$s Groups"
+msgstr "إضافة عرض الشرائح لمجموعات %1$s"
+
+#: includes/settings-page/sp-colorbox-settings.php:58
+msgid "Start Slideshow automatically"
+msgstr "ابدأ عرض الشرائح تلقائياً"
+
+#: includes/settings-page/sp-colorbox-settings.php:63
+#, php-format
+msgid ""
+"Start Slideshow automatically if slideshow functionality is added to %1$s "
+"Groups"
+msgstr ""
+"ابدأ عرض الشرائح تلقائياً إذا كانت خصائص عرض الشرائح قد أضيفت لمجموعات %1$s"
+
+#: includes/settings-page/sp-colorbox-settings.php:68
+msgid "Speed of the slideshow"
+msgstr "سرعة عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:71
+#: includes/settings-page/sp-colorbox-settings.php:313
+msgid "milliseconds"
+msgstr "ميلي ثانية"
+
+#: includes/settings-page/sp-colorbox-settings.php:72
+msgid "Sets the speed of the slideshow, in milliseconds"
+msgstr "حدد سرعة عرض الشرائح بالميلي ثانية"
+
+#: includes/settings-page/sp-colorbox-settings.php:77
+msgid "Disable loop"
+msgstr "تعطيل التكرار"
+
+#: includes/settings-page/sp-colorbox-settings.php:81
+msgid "Disable looping through image groups"
+msgstr "تعطيل التكرار عن طريق مجموعات الصور"
+
+#: includes/settings-page/sp-colorbox-settings.php:86
+msgid "Disable keys"
+msgstr "تعطيل المفاتيح"
+
+#: includes/settings-page/sp-colorbox-settings.php:90
+msgid ""
+"Disable ESC to close Colorbox and arrow keys to go to next and previous "
+"images"
+msgstr ""
+"تعطيل زر ESC للإغلاق صندوق عرض الشرائح وتعطيل أزرار الأسهم اليمين واليسار "
+"للإنتقال ما بين الصور."
+
+#: includes/settings-page/sp-colorbox-settings.php:95
+msgid "Maximum width of an image"
+msgstr "أقصى عرض للصورة"
+
+#: includes/settings-page/sp-colorbox-settings.php:100
+#: includes/settings-page/sp-colorbox-settings.php:150
+#: includes/settings-page/sp-colorbox-settings.php:200
+msgid "Do not set width"
+msgstr "عدم تعيين عرض"
+
+#: includes/settings-page/sp-colorbox-settings.php:104
+msgid "Set maximum width of an image"
+msgstr "تعيين أقصى عرض للصورة"
+
+#: includes/settings-page/sp-colorbox-settings.php:115
+msgid ""
+"Set the maximum width of the image in the Colorbox in relation to the "
+"browser window in percent or pixels. If maximum width is not set, image is "
+"as wide as the Colorbox"
+msgstr ""
+"حدد العرض الأقصى لصندوق عرض الشرائح بالنسبة المئوية أو بالبيكسل ليتناسب مع "
+"متصفحك. إذا لم يتم تعيين العرض، سيكون عرض الصورة مثل عرض صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:120
+msgid "Maximum height of an image"
+msgstr "أقصى ارتفاع للصورة"
+
+#: includes/settings-page/sp-colorbox-settings.php:125
+#: includes/settings-page/sp-colorbox-settings.php:175
+#: includes/settings-page/sp-colorbox-settings.php:225
+msgid "Do not set height"
+msgstr "عدم تعيين الارتفاع"
+
+#: includes/settings-page/sp-colorbox-settings.php:129
+msgid "Set maximum height of an image"
+msgstr "تعيين الارتفاع الأقصى للصورة"
+
+#: includes/settings-page/sp-colorbox-settings.php:140
+msgid ""
+"Set the maximum height of the image in the Colorbox in relation to the "
+"browser window to a value in percent or pixels. If maximum height is not "
+"set, the image is as high as the Colorbox"
+msgstr ""
+"حدد الارتفاع الأقصى لصندوق عرض الشرائح بالنسبة المئوية أو بالبيكسل ليتناسب "
+"مع متصفحك. إذا لم يتم تعيين الارتفاع، سيكون ارتفاع الصورة مثل ارتفاع صندوق "
+"عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:145
+msgid "Maximum width of the Colorbox"
+msgstr "الحد الأقصى لعرض صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:154
+#: includes/settings-page/sp-colorbox-settings.php:204
+msgid "Set width of the Colorbox"
+msgstr "تعيين عرض صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:165
+#: includes/settings-page/sp-colorbox-settings.php:215
+msgid ""
+"Set the maximum width of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If width is not set, the Colorbox "
+"will be as wide as the picture in it"
+msgstr ""
+"حدد العرض الأقصى لصندوق عرض الشرائح بالنسبة المئوية أو بالبيكسل ليتناسب مع "
+"متصفحك. إذا كانت الصورة أكبر من صندوق عرض الشرائح، سيتم عرض أشرطة التمرير، "
+"وإذا لم يتم تعيين العرض، سيكون صندوق عرض الشرائح عريضاً كعرض الصورة التي "
+"بداخله"
+
+#: includes/settings-page/sp-colorbox-settings.php:170
+msgid "Maximum height of the Colorbox"
+msgstr "الحد الأقصى لارتفاع صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:179
+#: includes/settings-page/sp-colorbox-settings.php:229
+msgid "Set height of the Colorbox"
+msgstr "تعيين ارتفاع صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:190
+#: includes/settings-page/sp-colorbox-settings.php:240
+msgid ""
+"Set the maximum height of the Colorbox itself in relation to the browser "
+"window to a value between in percent or pixels. If the image is bigger than "
+"the colorbox, scrollbars are displayed. If height is not set, the Colorbox "
+"will be as high as the picture in it"
+msgstr ""
+"حدد الارتفاع الأقصى لصندوق عرض الشرائح بالنسبة المئوية أو بالبيكسل ليتناسب "
+"مع متصفحك. إذا كانت الصورة أكبر من صندوق عرض الشرائح، سيتم عرض أشرطة "
+"التمرير، وإذا لم يتم تعيين الارتفاع، سيكون صندوق عرض الشرائح طويلاً كطول "
+"الصورة التي بداخله"
+
+#: includes/settings-page/sp-colorbox-settings.php:195
+msgid "Maximum width of the Colorbox used for links"
+msgstr "الحد الأقصى لعرض صندوق عرض الشرائح المستخدم للروابط"
+
+#: includes/settings-page/sp-colorbox-settings.php:220
+msgid "Maximum height of the Colorbox used for links"
+msgstr "الحد الأقصى لارتفاع صندوق عرض الشرائح المستخدم للروابط"
+
+#: includes/settings-page/sp-colorbox-settings.php:245
+#, fuzzy
+msgid "Initial width of the Colorbox"
+msgstr "تعيين عرض صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:249
+#, fuzzy
+msgid "Set the maximum width of the Colorbox before the content is loaded"
+msgstr "الحد الأقصى لعرض صندوق عرض الشرائح المستخدم للروابط"
+
+#: includes/settings-page/sp-colorbox-settings.php:254
+#, fuzzy
+msgid "Initial height of the Colorbox"
+msgstr "تعيين ارتفاع صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:258
+#, fuzzy
+msgid "Set the maximum height of the Colorbox before the content is loaded"
+msgstr "الحد الأقصى لارتفاع صندوق عرض الشرائح المستخدم للروابط"
+
+#: includes/settings-page/sp-colorbox-settings.php:263
+msgid "Resize images"
+msgstr "تعديل حجم الصورة"
+
+#: includes/settings-page/sp-colorbox-settings.php:268
+msgid ""
+"If enabled and if maximum width of images, maximum height of images, width "
+"of the Colorbox, or height of the Colorbox have been defined, ColorBox will "
+"scale photos to fit within the those values"
+msgstr ""
+"إذا كنت قد فعلت هذا الخيار وكنت قد عدلت في \"عرض وارتفاع الصور\" و\"عرض "
+"وارتفاع صندوق عرض الشرائح\" سيقوم صندوق عرض الشرائح بعرض الصور لتتلائم مع "
+"هذه القيم"
+
+#: includes/settings-page/sp-colorbox-settings.php:273
+msgid "Close Colorbox on overlay click"
+msgstr "إغلاق صندوق عرض الشرائح"
+
+#: includes/settings-page/sp-colorbox-settings.php:278
+msgid ""
+"If checked, enables closing ColorBox by clicking on the background overlay"
+msgstr ""
+"إذا حددت هذا الخيار، يمكنك إغلاق صندوق عرض الشرائح عند الضغط في أي مكان على "
+"الخلفية الشفافة"
+
+#: includes/settings-page/sp-colorbox-settings.php:283
+msgid "Preload images"
+msgstr "تحميل مسبق للصور"
+
+#: includes/settings-page/sp-colorbox-settings.php:288
+msgid ""
+"Allows for preloading of \"next\" and \"previous\" content in a group, after "
+"the current content has finished loading. Uncheck box to disable."
+msgstr ""
+"السماح للتحميل المسبق لأزرار \"التالي\" و\"السابق\" في المجموعات، بعد تحميل "
+"المحتوى الحالي. أزل المربع للتعطيل"
+
+#: includes/settings-page/sp-colorbox-settings.php:293
+msgid "Transition type"
+msgstr "نوع الانتقال بين الصور"
+
+#: includes/settings-page/sp-colorbox-settings.php:305
+msgid ""
+"The transition type of the Colorbox. Can be set to \"elastic\", \"fade\", or "
+"\"none\""
+msgstr ""
+"يمكنك ضبط إعدادات الانتقال بين الصور لصندوق عرض الشرائح إلى: تمدد، تضاءل، أو "
+"بدون تأثير"
+
+#: includes/settings-page/sp-colorbox-settings.php:310
+msgid "Transition speed"
+msgstr "سرعة الانتقال بين الصور"
+
+#: includes/settings-page/sp-colorbox-settings.php:314
+msgid ""
+"Sets the speed of the \"fade\" and \"elastic\" transitions, in milliseconds"
+msgstr "حدد سرعة نوع الانتقال \"تمدد، تضاءل، بدون تأثير\" بالميلي ثانية"
+
+#: includes/settings-page/sp-colorbox-settings.php:319
+msgid "Opacity"
+msgstr "شفافية الخلفية"
+
+#: includes/settings-page/sp-colorbox-settings.php:323
+msgid "The overlay opacity level. Range: 0 to 1"
+msgstr "مستوى شفافية الخلفية. المدى: من 0 إلى 1"
+
+#: includes/settings-page/sp-colorbox-settings.php:329
+#: includes/settings-page/sp-plugin-settings.php:134
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "حذف الإعدادات"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+"ضع علامة في المربع واضغط على زر حذف الإعدادات ليتم حذف إعدادات البرنامج."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "تبرع"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"إذا كنت ترغب بالمساهمة في تطوير البرنامج سواءً كانت مساهمتك (صغيرة أو كبيرة)، "
+"فنرجو منك أن تقوم بالتبرع."
+
+#: includes/settings-page/sp-donate-box.php:20
+msgid "Donate using Paypal"
+msgstr "تبرع عن طريق باي بال"
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "دعم التطوير"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr "رجاءً أدخل الرابط الذي تود أن أربطه بصفحة قائمة المتبرعين"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "الرجوع للصفحة الرئيسية"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "حدد كمية موجودة مسبقاً"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "دولار"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "أو"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "أدخل كمية مخصصة"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "نشر"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "أعلى المتبرعين"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr ""
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "آخر المتبرعين"
+
+#: includes/settings-page/sp-plugin-settings.php:13
+msgid "Plugin settings"
+msgstr "إعدادات الإضافة"
+
+#: includes/settings-page/sp-plugin-settings.php:20
+#, php-format
+msgid "Automate %1$s for all images in pages, posts and galleries"
+msgstr "أتمتة %1$s لجميع الصور في الصفحات، المواضيع، ومعرض صور الموقع"
+
+#: includes/settings-page/sp-plugin-settings.php:25
+msgid ""
+"Automatically add colorbox-class to images in posts and pages. Also adds "
+"colorbox-class to galleries. Images in one page or post are grouped "
+"automatically."
+msgstr ""
+"أضف صندوق عرض الشرائح بشكل تلقائي لعرض الصور في المواضيع والصفحات. سيقوم "
+"البرنامج بدمج جميع الصور في الموضوع تلقائياً."
+
+#: includes/settings-page/sp-plugin-settings.php:30
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr "أتمتة %1$s للصور في معرض صور الموقع فقط"
+
+#: includes/settings-page/sp-plugin-settings.php:35
+msgid ""
+"Automatically add colorbox-class to images in WordPress galleries, but "
+"nowhere else. Images in one page or post are grouped automatically."
+msgstr ""
+"أضف صندوق عرض الشرائح بشكل تلقائي للصور في معرض صور الموقع، سيقوم البرنامج "
+"بدمج جميع الصور في الموضوع تلقائياً."
+
+#: includes/settings-page/sp-plugin-settings.php:40
+#, php-format
+msgid "Automate %1$s for all other images"
+msgstr "أتمتة %1$s لجميع الصور الأخرى تلقائياً"
+
+#: includes/settings-page/sp-plugin-settings.php:45
+msgid ""
+"Automatically add colorbox-class to all images that are not in posts and "
+"pages (e.g. the sidebar)."
+msgstr ""
+"إضافة colorbox-class تلقائياً لجميع الصور في الموقع غير المواضيع والصفحات "
+"(مثال: القائمة الجانبية)."
+
+#: includes/settings-page/sp-plugin-settings.php:50
+#, fuzzy, php-format
+msgid "Automate %1$s for all text links to images"
+msgstr "أتمتة %1$s لجميع الصور الأخرى تلقائياً"
+
+#: includes/settings-page/sp-plugin-settings.php:54
+#, fuzzy
+msgid ""
+"Automatically add colorbox-link-class to all links that point to images."
+msgstr ""
+"إضافة colorbox-class تلقائياً لجميع الصور في الموقع غير المواضيع والصفحات "
+"(مثال: القائمة الجانبية)."
+
+#: includes/settings-page/sp-plugin-settings.php:59
+msgid "Automate hiding of flash objects"
+msgstr "أتمتة إخفاء عناصر الفلاش"
+
+#: includes/settings-page/sp-plugin-settings.php:64
+msgid "Automatically hide embeded flash objects behind the Colorbox layer."
+msgstr "قم بإخفاء عناصر الفلاش المدمجة خلف طبقة صندوق عرض الشرائح."
+
+#: includes/settings-page/sp-plugin-settings.php:70
+msgid "Add Zoom overlay to pictures"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:76
+msgid "Add Zoom overlay to pictures that open in a Colorbox."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:82
+msgid "Use jQuery library from Google"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:88
+#, php-format
+msgid ""
+"Use jQuery library version %1$s from Google instead of the one that comes "
+"with WordPress."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:94
+msgid "Add JavaScript to footer"
+msgstr "إضافة الجافا سكريبت للفوتر"
+
+#: includes/settings-page/sp-plugin-settings.php:100
+msgid "Add JavaScript to footer instead of the header."
+msgstr "إضافة الجافا سكريبت للفوتر بدلاً من الهيدر."
+
+#: includes/settings-page/sp-plugin-settings.php:105
+msgid "Remove link from Meta-box"
+msgstr "حذف الرابط من صندوق الروابط"
+
+#: includes/settings-page/sp-plugin-settings.php:109
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "حذف الرابط لمطوري الموقع من صندوق روابط ووردبريس."
+
+#: includes/settings-page/sp-plugin-settings.php:114
+msgid "Activate debug mode"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:118
+msgid ""
+"Adds debug information and non-minified JavaScript to the page. Useful for "
+"troubleshooting."
+msgstr ""
+
+#: includes/settings-page/sp-plugin-settings.php:123
+msgid "Disable warning"
+msgstr "تعطيل التحذير"
+
+#: includes/settings-page/sp-plugin-settings.php:128
+msgid ""
+"Disables the warning that is displayed if the plugin is activated but the "
+"auto-colorbox feature for all images is turned off."
+msgstr ""
+"تعطيل التحذير الذي يعرض في الصفحة الرئيسية للوحة تحكم الموقع عند تفعيل "
+"الإضافة و عدم تفعيل البرنامج ليعمل على جميع الصور تلقائياً."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "معلومات عن الترجمة"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de"
+"\">Arne Franken</a>."
+msgstr ""
+"تمت الترجمة للغة العربية بواسطة: <a href=\"http://www.photokeens.com\">مضر "
+"صوص</a>."
+
+#~ msgid "Make images draggable"
+#~ msgstr "جعل الصور منزلقة"
+
+#~ msgid "Make images draggable instead of scrollable"
+#~ msgstr "جعل الصور منزلقة متوافقة مع  حركة السكرول"
+
+#~ msgid "Automate %1$s for all images"
+#~ msgstr "شغل برنامج %1$s لجميع الصور تلقائياً"
+
+#~ msgid "Automate %1$s for images in WordPress galleries"
+#~ msgstr "أتمتة %1$s للصور في معرض صور الموقع"
+
+#~ msgid "does not work with PHP 4. Please update or uninstall the plugin."
+#~ msgstr "لا يعمل مع PHP 4. يرجى تحديث الإضافة أو حذفها."
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximum width of an image"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximum height of an image"
+
+#~ msgid "width"
+#~ msgstr "Maxinmum width of the Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximum height of the Colorbox"

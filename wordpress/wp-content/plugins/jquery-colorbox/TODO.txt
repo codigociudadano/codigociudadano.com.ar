@@ -1,0 +1,117 @@
+/**
+ * @package Techotronic
+ * @subpackage jQuery Colorbox
+ *
+ * @since 3.7
+ * @author Arne Franken
+ *
+ * todo list for the stuff that needs to be done.
+ */
+
+Administrative Stuff
+- plan features for new versions
+- add as many translatable strings as possible for new versions
+- ask all translators for new translation after implementation and before release
+
+Features
+
+========================================================================================================================
+
+Need to think about these features
+- add link to Fullscreen to Colorbox
+    - http://groups.google.com/group/colorbox/browse_thread/thread/6d28c99111051f41/8505ab852396c500?lnk=gst&q=fullscreen#8505ab852396c500
+
+- display description/caption when mouse is hovering on the image
+    - http://groups.google.com/group/colorbox/browse_thread/thread/4d4d5a02daa85ce9/1fcb9056d993a6e5?lnk=gst&q=description#1fcb9056d993a6e5
+
+========================================================================================================================
+
+============
+OPEN
+============
+
+Feature 18
+- make size of colorbox configurable per link
+
+Feature 17
+- sort settings into tabs
+http://wp.smashingmagazine.com/2011/10/20/create-tabs-wordpress-settings-pages/
+
+Feature 16
+- Magnifier Overlay on mouseover
+http://wordpress.org/support/topic/plugin-jquery-colorbox-small-magnifier-logo-overlay?replies=1
+
+Feature 14
+- Caption does not fit in colorbox:
+http://wordpress.org/support/topic/plugin-jquery-colorbox-caption-exceeds-space?replies=1
+
+Feature 13
+- add colorbox 1.3.17.1 "positioning" properties
+
+Feature 12
+- add option to switch colorbox off for whole posts and pages
+- Do nothing on certain pages
+http://wordpress.org/support/topic/plugin-jquery-colorbox-modify-plugin-to-do-nothing-on-home-page?replies=1
+  - may be possible for single pages/posts with meta field
+  - switch for home page?
+
+Feature 11
+- add possibility to disable adding of colorbox-ids to NextGEN images if auto-mode is on.
+
+Feature 10
+- enable tracking by Google Analytics and/or Piwik
+    - https://groups.google.com/group/colorbox/browse_thread/thread/eed5244f9e033292/a80fc8be79ab4d34?lnk=gst&q=analytics#a80fc8be79ab4d34
+
+Feature 7
+- add Flattr-button to settings page
+
+Feature 4
+- add possibility for custom themes
+    - rename themes to have a leading zero
+
+========================================================================================================================
+
+============
+NOT POSSIBLE
+============
+
+Feature 3
+- add separate options for "add colorbox to galleries" and "add colorbox to images"
+NOT POSSIBLE
+
+========================================================================================================================
+
+=============
+DONE
+=============
+
+Feature 9
+- display error when PHP version is less than 5
+DONE
+
+Feature 8
+- add option (loop:false) to disable looping in a group.
+- add options (escKey:false, arrowKey:false) to disable esc-key and arrow-key bindings.
+DONE
+
+Feature 7a
+- add option to remove link from meta box
+DONE
+
+Feature 6
+- add "debug"-option which loads non-minified JavaScript
+DONE
+
+Feature 5
+- add possibility to use a custom JavaScript file instead of inline JavaScript for colorbox
+-> always use external file
+-> set all variables inline
+DONE
+
+Feature 2
+- add option to add JavaScript at the bottom
+DONE
+
+Feature 1
+- add separate option for "jquery-colorbox-auto.js"
+DONE
