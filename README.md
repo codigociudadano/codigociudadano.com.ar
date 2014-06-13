@@ -90,6 +90,6 @@ El sitio esta hecho en su mayoría con varias tecnologías, principalmente en Dr
 ## Comunidad
 
  Seguí las ultimas noticias de Esculturas y mas sobre Código Ciudadano en:
- - El sitio oficial: [Codigo Ciudadano](http://www.codigociudadano.co/)
+ - El sitio oficial: [Codigo Ciudadano](http://www.codigociudadano.cc/)
  - Seguinos en Facebook[CiudadanosC](https://www.facebook.com/CiudadanosC)
  - Seguinos en Twitter: [@CiudadanoCo](https://twitter.com/CiudadanoCo)
