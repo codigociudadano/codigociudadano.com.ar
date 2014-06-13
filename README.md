@@ -51,7 +51,7 @@ Para que puedas ayudarnos en este proyecto se requiere tener instalado:
   
   ````GRANT ALL PRIVILEGES ON codigociudadano.* TO codigociudadano@localhost IDENTIFIED BY 'codigociudadano'````
 
-6) Bajar la ultima base de datos para development desde [aqui](https://github.com/codigociudadano/codigociudadano.com.ar/sql/initial-dump.sql).
+6) Bajar la ultima base de datos para development que está en la carpeta codigociudadano.com.ar/sql
 
 7) Importar el dump de la base de datos de prueba.
 
