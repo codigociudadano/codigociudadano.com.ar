@@ -23,7 +23,7 @@ Para que puedas ayudarnos en este proyecto se requiere tener instalado:
 
 1) Clonar el repositorio:  `git clone https://github.com/codigociudadano/codigociudadano.com.ar.git`.
 
-2) Configurar un Virtual Host de Apache para que apunte a src/ donde el servername sea codigociudadano.local  
+2) Configurar un Virtual Host de Apache para que apunte a src/ donde el servername sea codigociudadano.local y agregarlo al archivo `000-default` que generalmente se encuentra en `etc/apache2/sites-enabled/000-default`
    Un ejemplo: 
    ```
     <VirtualHost *:80>      
@@ -45,11 +45,15 @@ Para que puedas ayudarnos en este proyecto se requiere tener instalado:
 
 4) Crear una base de datos MYSQL llamada codigociudadano.
    
-  ````CREATE DATABASE codigociudadano;````
+  ```sql
+  CREATE DATABASE codigociudadano;
+  ```
 
 5) Crear un usuario codigociudadano en MYSQL con la password codigociudadano y que tenga accesso full en la base codigociudadano.
   
-  ````GRANT ALL PRIVILEGES ON codigociudadano.* TO codigociudadano@localhost IDENTIFIED BY 'codigociudadano'````
+  ```sql
+  GRANT ALL PRIVILEGES ON codigociudadano.* TO codigociudadano@localhost IDENTIFIED BY 'codigociudadano'
+  ```
 
 6) Bajar la ultima base de datos para development que está en la carpeta codigociudadano.com.ar/sql
 
