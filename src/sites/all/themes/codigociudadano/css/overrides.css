@@ -1,0 +1,66 @@
+
+/* Hoja de estilos del theme CodigoCiudadano */
+
+/* -------------- Elementos generales ------------- */
+#page #masthead .dynamic-menu {
+  float: right;
+}
+
+/* -------------------- Home -------------------- */
+.middle-nodequeue-horiz {
+  margin-top: 1.5em;
+  clear: both;
+}
+
+.items-queue {
+  margin-left: 0;
+  float: left;
+  width: 100%;
+  padding: 0;
+}
+.items-queue li {
+  list-style-type: none;
+}
+.single-item {
+  width: 32.0%;
+  float: left;
+  clear: none;
+  margin: 0;
+}
+
+.single-item a {
+  color: black;
+  text-align: center;
+}
+
+.itembadge-link {
+  padding-top: 15px;
+  padding-top: 0.9375rem;
+  padding-bottom: 10px;
+  padding-bottom: 0.625rem;
+  padding-left: 4%;
+  padding-right: 4%;
+  display: block;
+}
+
+.itembadge-heading {
+  text-transform: uppercase;
+  margin: 0;
+  margin: 0 0 15px 0;
+  margin: 0 0 0.9375rem 0;  
+  font-size: 12px;
+  font-size: 0.75rem;
+  line-height: 1.8em;
+  color: black;
+  font-weight: normal;
+  letter-spacing: 0.8px;
+}
+
+.itembadge-text {
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  text-transform: uppercase;
+  font-size: 19px;  
+  line-height: 23px;  
+}
