@@ -98,16 +98,14 @@
 
 
   <?php if ($is_front): ?>
-  <?php if (theme_get_setting('slideshow_display','codigociudadano')): ?>
+    <?php if (theme_get_setting('slideshow_display','codigociudadano')): ?>
   <?php 
     $slide1_head = check_plain(theme_get_setting('slide1_head','codigociudadano'));   $slide1_desc = check_markup(theme_get_setting('slide1_desc','codigociudadano'), 'full_html'); $slide1_url = check_plain(theme_get_setting('slide1_url','codigociudadano'));
-//    $slide2_head = check_plain(theme_get_setting('slide2_head','codigociudadano'));   $slide2_desc = check_markup(theme_get_setting('slide2_desc','codigociudadano'), 'full_html'); $slide2_url = check_plain(theme_get_setting('slide2_url','codigociudadano'));
-//    $slide3_head = check_plain(theme_get_setting('slide3_head','codigociudadano'));   $slide3_desc = check_markup(theme_get_setting('slide3_desc','codigociudadano'), 'full_html'); $slide3_url = check_plain(theme_get_setting('slide3_url','codigociudadano'));
   ?>
   <div id="slidebox" class="flexslider">
     <ul class="slides">
       <li>
-        <img src="<?php print base_path() . drupal_get_path('theme', 'nexus') . '/images/slide-image-1.jpg'; ?>"/>
+        <img src="<?php print base_path() . drupal_get_path('theme', 'codigociudadano') . '/images/slide-image-1.jpg'; ?>"/>
         <?php if($slide1_head || $slide1_desc) : ?>
           <div class="flex-caption">
             <h2><?php print $slide1_head; ?></h2><?php print $slide1_desc; ?>
@@ -118,8 +116,7 @@
     </ul><!-- /slides -->
     <div class="doverlay"></div>
   </div>
-  <?php endif; ?>
-  <?php endif; ?>
+    <?php endif; ?>
   
   <section class="middle-nodequeue-horiz">
     <ul class="items-queue wide-queue">
@@ -143,24 +140,10 @@
       </li>
     </ul>
   </section>
+  <?php endif; ?>
 
   <?php if($page['preface_first'] || $page['preface_middle'] || $page['preface_last']) : ?>
     <?php $preface_col = ( 12 / ( (bool) $page['preface_first'] + (bool) $page['preface_middle'] + (bool) $page['preface_last'] ) ); ?>
-<!--    <div id="preface-area">
-      <div class="container">
-        <div class="row">
-          < ?php if($page['preface_first']): ?><div class="preface-block col-sm-< ?php print $preface_col; ?>">
-            < ?php print render ($page['preface_first']); ?>
-          </div>< ?php endif; ?>
-          < ?php if($page['preface_middle']): ?><div class="preface-block col-sm-< ?php print $preface_col; ?>">
-            < ?php print render ($page['preface_middle']); ?>
-          </div>< ?php endif; ?>
-          < ?php if($page['preface_last']): ?><div class="preface-block col-sm-< ?php print $preface_col; ?>">
-            < ?php print render ($page['preface_last']); ?>
-          </div>< ?php endif; ?>
-        </div>
-      </div>
-    </div> -->
   <?php endif; ?>
 
   <?php if($page['header']) : ?>
@@ -242,9 +225,9 @@
     <div class="container">
       <div class="row">
         <div class="fcred col-sm-12">
-          <?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>, <a href="<?php print $front_page; ?>"><?php print $site_name; ?></a>. <?php print t('Theme by'); ?>  <a href="http://www.devsaran.com" target="_blank">Devsaran</a>.
+          <?php print t('Desarrollado por')?> <a href="http://www.codigociudadano.com.ar" target="_blank">Codigo Ciudadano</a><div class=""></div>
         </div>
       </div>
     </div>
-  </div>
+  </footer>
 </div>

@@ -6,6 +6,17 @@
   float: right;
 }
 
+#logo {
+  margin-bottom: 15px;
+}
+
+#main-content #primary {
+  padding-top: 0;
+}
+#navigation #main-menu {
+  margin: 23px 0px 15px;
+}
+
 /* -------------------- Home -------------------- */
 .middle-nodequeue-horiz {
   margin-top: 1.5em;
