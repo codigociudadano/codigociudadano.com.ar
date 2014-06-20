@@ -17,6 +17,17 @@
   margin: 23px 0px 15px;
 }
 
+/* -------------------- Footer -------------------- */
+footer .row .fcred {
+  padding: 10px 15px;
+}
+
+/* -------------------- User login page -------------------- */
+#user-login .form-item-name label,
+#user-login .form-item-pass label {
+  display: block;
+}
+
 /* -------------------- Homepage -------------------- */
 .middle-nodequeue-horiz {
   margin-top: 1.5em;
