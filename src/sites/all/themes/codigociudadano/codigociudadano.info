@@ -7,6 +7,7 @@ base theme = nexus
 ;------------ Stylesheets ------------
 
 stylesheets[all][] = css/overrides.css
+stylesheets[all][] = fonts/octicons/octicons.css
 
 ;-------------- Scripts --------------
 

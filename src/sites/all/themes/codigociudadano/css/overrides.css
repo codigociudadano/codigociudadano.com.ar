@@ -24,7 +24,10 @@ footer .row .fcred {
 
 /* -------------------- User login page -------------------- */
 #user-login .form-item-name label,
-#user-login .form-item-pass label {
+#user-login .form-item-pass label,
+#user-register-form .form-item-name label,
+#user-register-form .form-item-mail label,
+#user-pass .form-item-name label {
   display: block;
 }
 
@@ -34,9 +37,13 @@ footer .row .fcred {
   clear: both;
 }
 
+.itemqueue-heading .mega-octicon,
 .itemqueue-heading a {
   color: #777;
   text-align: center;
+}
+.itemqueue-heading .mega-octicon {
+  width: 100%
 }
 
 .itemqueue-heading a:hover {
@@ -45,17 +52,17 @@ footer .row .fcred {
 
 .itemqueue-heading {
   text-transform: uppercase;
-  font-size: 12px;
-  font-size: 0.75rem;
   line-height: 1.8em;  
-  font-weight: normal;
+  font-size: 19px;  
+  font-weight: 700;
   letter-spacing: 0.8px;
 }
 
 .itemqueue-text {
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal;  
   text-transform: uppercase;
-  font-size: 19px;  
+  font-size: 12px;
+  font-size: 0.75rem;
   line-height: 23px;  
 }
