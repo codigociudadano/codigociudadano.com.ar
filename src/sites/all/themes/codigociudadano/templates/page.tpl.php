@@ -116,29 +116,29 @@
     </ul><!-- /slides -->
     <div class="doverlay"></div>
   </div>
-    <?php endif; ?>
+  <?php endif; ?>
   
   <section class="middle-nodequeue-horiz">
-    <ul class="items-queue wide-queue">
-      <li class="single-item itembadge-heading">
-        <a class="itembadge-link" href="/">
-          <h3 class="itembadge-heading">Ciudadanos</h3>
-          <h4 class="itembadge-text">Desarrolla tus skills</h4>
+    <div class="row">
+      <div class="col-lg-4 itemqueue-heading">
+        <a href="/">          
+          <h2 class="itemqueue-heading">Ciudadanos</h2>
+          <p class="itemqueue-text">Desarrolla tus skills</p>
         </a>
-      </li>
-      <li class="single-item itembadge-heading">
-        <a class="itembadge-link" href="/">
-          <h3 class="itembadge-heading">Ciudad</h3>
-          <h4 class="itembadge-text">Resuelve problemas de tu ciudad</h4>
+      </div>
+      <div class="col-lg-4 itemqueue-heading">
+        <a href="/">          
+          <h2 class="itemqueue-heading">Ciudad</h2>
+          <p class="itemqueue-text">Resuelve problemas de tu ciudad</p>
         </a>
-      </li>
-      <li class="single-item itembadge-heading">
-        <a class="itembadge-link" href="/">
-          <h3 class="itembadge-heading">Donaciones</h3>
-          <h4 class="itembadge-text">Ayuda a hacer la diferencia</h4>
+      </div>
+      <div class="col-lg-4 itemqueue-heading">
+        <a href="/">          
+          <h2 class="itemqueue-heading">Donaciones</h2>
+          <p class="itemqueue-text">Ayuda a hacer la diferencia</p>
         </a>
-      </li>
-    </ul>
+      </div>
+    </div>
   </section>
   <?php endif; ?>
 
