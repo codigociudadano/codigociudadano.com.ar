@@ -122,20 +122,20 @@
     <div class="row">
       <div class="col-lg-4 itemqueue-heading">
         <a href="/">          
-          <h2 class="itemqueue-heading">Ciudadanos</h2>
-          <p class="itemqueue-text">Desarrolla tus skills</p>
+          <h2 class="itemqueue-heading"><?php echo t('Ciudadanos'); ?></h2>
+          <p class="itemqueue-text"><?php echo t('Desarrolla tus skills'); ?></p>
         </a>
       </div>
       <div class="col-lg-4 itemqueue-heading">
         <a href="/">          
-          <h2 class="itemqueue-heading">Ciudad</h2>
-          <p class="itemqueue-text">Resuelve problemas de tu ciudad</p>
+          <h2 class="itemqueue-heading"><?php echo t('Ciudad'); ?></h2>
+          <p class="itemqueue-text"><?php echo t('Resuelve problemas de tu ciudad'); ?></p>
         </a>
       </div>
       <div class="col-lg-4 itemqueue-heading">
         <a href="/">          
-          <h2 class="itemqueue-heading">Donaciones</h2>
-          <p class="itemqueue-text">Ayuda a hacer la diferencia</p>
+          <h2 class="itemqueue-heading"><?php echo t('Donaciones'); ?></h2>
+          <p class="itemqueue-text"><?php echo t('Ayuda a hacer la diferencia'); ?></p>
         </a>
       </div>
     </div>
