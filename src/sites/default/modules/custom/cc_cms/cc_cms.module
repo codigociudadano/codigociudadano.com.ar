@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @file
+ * Funciones para el modulo CC CMS.
+ * 
+ * Este modulo tambien es usado (al menos inicialmente) para propositos educativos.
+ */
+
+include_once 'cc_cms.admin.inc';
+
+function cc_cms_menu() {
+  $items = array();
+  
+  $items['cc_cms/settings'] = array(
+    'title' => 'Social Links',
+    'page callback' => 'cc_admin_social_links_settings',
+    'description' => '',
+    'access arguments' => array('access cc settings'),
+    'file' => 'cc_cms.admin.inc',
+  );
+}

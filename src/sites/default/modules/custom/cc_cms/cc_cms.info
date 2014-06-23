@@ -1,0 +1,6 @@
+name = CodigoCiudadano Cms
+description = Codigo General para el Sitio de Codigo Ciudadano
+core = 7.x
+package = CodigoCiudadano
+version = 7.x-1.0
+project = esculturas_cms
