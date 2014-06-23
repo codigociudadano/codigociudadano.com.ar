@@ -21,3 +21,4 @@ views
 wysiwyg
 jquery_update
 diff
+google_analytics
