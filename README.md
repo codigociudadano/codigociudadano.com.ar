@@ -59,7 +59,10 @@ Para que puedas ayudarnos en este proyecto se requiere tener instalado:
 
 7) Importar el dump de la base de datos de prueba.
 
-8) Desde `src/` correr con drush: `bash scripts/adjust-db-to-site.sh default`
+8) Desde `src/` correr en la terminal: 
+```shell
+$ bash scripts/adjust-db-to-site.sh default`
+```
 
 9) Entrar con el browser a http://codigociudadano.local
 
