@@ -119,24 +119,24 @@
   <?php endif; ?>
   
   <section class="middle-nodequeue-horiz">
-    <div class="row">
+    <div class="row org-purpose-block">
       <div class="col-lg-4 itemqueue-heading">
         <a href="/">          
-          <span class="mega-octicon octicon-issue-opened"></span>
+          <i class="fa fa-exclamation-circle fa-3x"></i>
           <h2 class="itemqueue-heading"><?php echo t('Problemas Sociales'); ?></h2>
           <p class="itemqueue-text"><?php echo t('Identificamos problemas en nuestras sociedades y vemos si podemos solucionarlo con tecnología, ya sea con productos existentes o viendo si podemos crear uno nuevo'); ?></p>
         </a>
       </div>
       <div class="col-lg-4 itemqueue-heading">
-        <a href="/">          
-          <span class="mega-octicon octicon-light-bulb"></span>
+        <a href="/">
+          <i class="fa fa-lightbulb-o fa-3x"></i>
           <h2 class="itemqueue-heading"><?php echo t('Soluciones Tecnológicas'); ?></h2>
           <p class="itemqueue-text"><?php echo t('Formulamos la idea, iniciamos el proyecto y tratamos de buscar gente que se sume a implementarlo y ponemos manos a la obra con el objetivo de obtener una solución.'); ?></p>
         </a>
       </div>
       <div class="col-lg-4 itemqueue-heading">
-        <a href="/">          
-          <span class="mega-octicon octicon-organization"></span>
+        <a href="/">
+          <i class="fa fa-users fa-3x"></i>
           <h2 class="itemqueue-heading"><?php echo t('Aporte a la Sociedad'); ?></h2>
           <p class="itemqueue-text"><?php echo t('Una vez listo el desarrollo lo ponemos al aire para que la gente comience a usarlo para hacer mas sencilla su vida'); ?></p>
         </a>
@@ -227,8 +227,11 @@
   <footer id="colophon" class="site-footer" role="contentinfo">
     <div class="container">
       <div class="row">
-        <div class="fcred col-sm-12">
+        <div class="fcred col-sm-8">
           <?php print t('Desarrollado por')?> <a href="http://www.codigociudadano.com.ar" target="_blank">Codigo Ciudadano</a><div class=""></div>
+        </div>
+        <div class="col-sm-4">
+        <?php echo $cc_cms_social_links; ?>
         </div>
       </div>
     </div>

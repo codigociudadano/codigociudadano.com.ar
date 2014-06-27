@@ -12,6 +12,8 @@ function codigociudadano_preprocess_page(&$vars) {
     $vars['title']="";
     unset($vars['page']['content']['system_main']['default_message']);
   }
+  $block = block_load('cc_cms', 'cc-cms-social-profiles');
+  $vars['cc_cms_social_links'] = drupal_render(_block_get_renderable_array(_block_render_blocks(array($block))));
 }
 
 /**

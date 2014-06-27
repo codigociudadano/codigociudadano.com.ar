@@ -87,10 +87,6 @@ El sitio esta hecho en su mayoría con varias tecnologías, principalmente en Dr
  - (jQuery) [jQuery API Documentation](http://api.jquery.com/)
  - (jQuery) [jQuery enlightment](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 
-### Google Map
-
- - Google developers - [Google Map API](https://developers.google.com/maps/)
-
 ## Comunidad
 
  Seguí las ultimas noticias de Esculturas y mas sobre Código Ciudadano en:

@@ -7,16 +7,134 @@
  * Este modulo tambien es usado (al menos inicialmente) para propositos educativos.
  */
 
-include_once 'cc_cms.admin.inc';
-
+/**
+ * Implements hook_menu().
+ */
 function cc_cms_menu() {
   $items = array();
   
-  $items['cc_cms/settings'] = array(
+  $items['admin/config/administration/social_links'] = array(
     'title' => 'Social Links',
-    'page callback' => 'cc_admin_social_links_settings',
-    'description' => '',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('cc_admin_social_links_settings'),
+    'description' => t('Settings for social links profile related to this site.'),
     'access arguments' => array('access cc settings'),
     'file' => 'cc_cms.admin.inc',
   );
+  return $items;
+}
+
+/**
+ * Implements hook_permission().
+ */
+function cc_cms_permission() {
+  return array(
+    'access cc settings' => array(
+      'title' => t('Access social links settings'),
+      'description' => t('Allows to configure the social links profile related to this site.'),
+    ),
+  );
+}
+
+/**
+ * Implements hook_block_info().
+ */
+function cc_cms_block_info() {
+  $blocks = array();
+  $blocks['cc-cms-social-profiles'] = array(
+    'info' => t('CC CMS Social profiles'),  
+  );
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function cc_cms_block_view($delta = '') {
+  $block = array();
+  
+  switch ($delta) {
+    case 'cc-cms-social-profiles':
+      $profiles_info = cc_cms_get_profiles_info();
+      $block['content'] = theme('social_profiles_links', array('profiles' => $profiles_info));
+      break;
+
+    default:
+      break;
+  }
+  return $block;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function cc_cms_theme() {
+  $items = array(
+    'social_profiles_links' => array(
+      'template' => 'social-profiles-links',
+      'variables' => array(
+        'info' => NULL,
+      ),
+    ),
+  );
+  return $items;
+}
+
+function cc_cms_get_profiles_info() {
+  $social_profile_settings = variable_get('cc_cms_social_profile_links', array());
+  $social_profile_settings = array_filter($social_profile_settings);
+  $social_profile_info = cc_cms_social_profile_info();
+  $profiles = array();
+  
+  foreach ($social_profile_settings as $key_profile => $val_profile) {
+    $profiles[$key_profile]['profile_url'] = $social_profile_info[$key_profile]['base_url'] . $val_profile;
+    $profiles[$key_profile]['title'] = $social_profile_info[$key_profile]['title'];
+  }
+  return $profiles;
+}
+
+/**
+ * Returnal la lista de perfiles en redes sociales que hay por default.
+ * 
+ * @return array | Lista de perfiles en redes sociales
+ */
+function cc_cms_social_profile_info() {
+  
+  $platforms = array();
+  $platforms['facebook'] = array(
+    'title' => t('Facebook'),
+    'base_url' => 'https://www.facebook.com/',
+  );
+
+  $platforms['twitter'] = array(
+    'title' => t('Twitter'),
+    'base_url' => 'http://www.twitter.com/',
+  );
+  
+  $platforms['github'] = array(
+    'title' => t('GitHub'),
+    'base_url' => 'https://github.com/',
+  );
+
+  $platforms['google-plus'] = array(
+    'title' => t('Google+'),
+    'base_url' => 'https://plus.google.com/',
+  );
+
+  $platforms['youtube'] = array(
+    'title' => t('YouTube'),
+    'base_url' => 'http://www.youtube.com/user/',
+  );
+
+  $platforms['pinterest'] = array(
+    'title' => t('Pinterest'),
+    'base_url' => 'http://www.pinterest.com/',
+  );
+
+  $platforms['linkedin'] = array(
+    'title' => t('LinkedIn'),
+    'base_url' => 'http://www.linkedin.com/pub/',
+  );
+  
+  return $platforms;
 }

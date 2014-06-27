@@ -22,6 +22,18 @@ footer .row .fcred {
   padding: 10px 15px;
 }
 
+footer #block-cc-cms-cc-cms-social-profiles {
+float: right;
+}
+
+footer #block-cc-cms-cc-cms-social-profiles .navbar-nav>li>a {
+  padding: 9px;
+  color: #fff;
+}
+footer #block-cc-cms-cc-cms-social-profiles .navbar-nav>li>a:hover {
+  color: #bbb;
+}
+
 /* -------------------- User login page -------------------- */
 #user-login .form-item-name label,
 #user-login .form-item-pass label,
@@ -37,12 +49,12 @@ footer .row .fcred {
   clear: both;
 }
 
-.itemqueue-heading .mega-octicon,
+.itemqueue-heading .fa,
 .itemqueue-heading a {
   color: #777;
   text-align: center;
 }
-.itemqueue-heading .mega-octicon {
+.itemqueue-heading .fa {
   width: 100%
 }
 
@@ -65,4 +77,9 @@ footer .row .fcred {
   font-size: 12px;
   font-size: 0.75rem;
   line-height: 23px;  
+}
+
+.middle-nodequeue-horiz .row.org-purpose-block {
+  margin: 0 auto;
+  max-width: 1170px;
 }
