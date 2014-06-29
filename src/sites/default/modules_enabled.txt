@@ -22,3 +22,4 @@ wysiwyg
 jquery_update
 diff
 google_analytics
+cc_cms
