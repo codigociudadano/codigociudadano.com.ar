@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Codigo Ciudadano Configs feature.
+ */
+
+include_once 'codigo_ciudadano_configs.features.inc';

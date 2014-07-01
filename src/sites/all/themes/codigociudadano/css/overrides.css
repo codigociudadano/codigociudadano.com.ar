@@ -17,6 +17,10 @@
   margin: 23px 0px 15px;
 }
 
+#main-menu .links li a {
+  background-color: #FFF;
+}
+
 /* -------------------- Footer -------------------- */
 footer .row .fcred {
   padding: 10px 15px;
@@ -42,6 +46,27 @@ footer #block-cc-cms-cc-cms-social-profiles .navbar-nav>li>a:hover {
 #user-pass .form-item-name label {
   display: block;
 }
+
+#user-login .item-list ul.github-links {
+  padding: 0;
+  list-style: none;
+}
+
+#user-login #edit-github {
+  max-width: 500px;
+}
+#user-login #edit-github legend {
+  top: 0;
+  left: 0;
+}
+#user-login #edit-github .fieldset-wrapper {
+  margin-top: 33px;
+}
+
+#user-login .github-link a {
+  
+}
+
 
 /* -------------------- Homepage -------------------- */
 .middle-nodequeue-horiz {

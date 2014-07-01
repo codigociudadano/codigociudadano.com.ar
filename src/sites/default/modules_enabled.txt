@@ -23,3 +23,6 @@ jquery_update
 diff
 google_analytics
 cc_cms
+codigo_ciudadano_configs
+openid
+github_connect

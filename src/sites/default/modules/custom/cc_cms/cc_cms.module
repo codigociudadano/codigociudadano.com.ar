@@ -138,3 +138,56 @@ function cc_cms_social_profile_info() {
   
   return $platforms;
 }
+
+/**
+ * Implements hook_form_FORM_ID_alter().
+ */
+function cc_cms_form_user_login_alter(&$form, &$form_state) {
+  if (module_exists('openid')) {
+    _cc_cms_remove_openid_user_login($form, $form_state);    
+  }
+}
+
+function _cc_cms_remove_openid_user_login(&$form, &$form_state) {
+
+  $form['github'] = array(
+    '#type' => 'fieldset', 
+    '#title' => t('Github'),
+    '#weight' => '-2',
+  );
+  $form['github']['user_notify_about_github_account'] = array(
+    '#title' => t('Github'),
+    '#markup' => t('Para que puedas acceder a todas las opciones, te recomendamos que
+      uses tu cuenta de Github. De esta forma, va a ser mas facil que puedas trabajar 
+      o reportar cualquier problema que tengas.'),
+    '#weight' => '-2',
+  );
+  $form['github']['github_links'] = $form['github_links'];
+  $form['github']['github_connect.return_to'] = $form['github_connect.return_to'];
+  
+  unset($form['github_links']);
+  unset($form['github_connect.return_to']);
+  unset($form['openid_links']);
+  unset($form['openid_identifier']);
+  unset($form['openid.return_to']);
+}
+
+/**
+ * Implements hook_preprocess_page().
+ */
+function cc_cms_preprocess_page(&$vars) {
+  global $user;
+  
+  if ($user->uid == 0) {
+    $vars['main_menu']['menu-login'] = array(
+      'href' => 'user/login',
+      'title' => t('Iniciar sesión'),
+    );
+  }
+  else {
+    $vars['main_menu']['menu-logout'] = array(
+      'href' => 'user/logout',
+      'title' => t('Cerrar sesión'),
+    );    
+  }  
+}

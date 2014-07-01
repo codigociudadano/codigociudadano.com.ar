@@ -83,12 +83,24 @@
         <nav id="navigation" class="dynamic-menu" role="navigation">
           <div id="main-menu">
             <?php 
-              if (module_exists('i18n_menu')) {
-                $main_menu_tree = i18n_menu_translated_tree(variable_get('menu_main_links_source', 'main-menu'));
-              } else {
-                $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
-              }
-              print drupal_render($main_menu_tree);
+//              if (module_exists('i18n_menu')) {
+//                $main_menu_tree = i18n_menu_translated_tree(variable_get('menu_main_links_source', 'main-menu'));
+//              } else {
+//                $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
+//                $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
+//              }
+//              die(var_dump($main_menu));
+//              $cc_main_menu = menu_tree_all_data('main-menu');
+//              die(var_dump(menu_tree_output($cc_main_menu)));
+//              
+//              if ($user->uid == 0) {
+//                $vars['main_menu']['menu-login'] = array(
+//                  'href' => 'user/login',
+//                  'title' => t('Iniciar sesión'),
+//                );
+//              }
+              print $main_menu;
+//              print drupal_render($main_menu_tree);
             ?>
           </div>
         </nav>
@@ -100,7 +112,9 @@
   <?php if ($is_front): ?>
     <?php if (theme_get_setting('slideshow_display','codigociudadano')): ?>
   <?php 
-    $slide1_head = check_plain(theme_get_setting('slide1_head','codigociudadano'));   $slide1_desc = check_markup(theme_get_setting('slide1_desc','codigociudadano'), 'full_html'); $slide1_url = check_plain(theme_get_setting('slide1_url','codigociudadano'));
+    $slide1_head = check_plain(theme_get_setting('slide1_head','codigociudadano'));   
+    $slide1_desc = check_markup(theme_get_setting('slide1_desc','codigociudadano'), 'full_html'); 
+    $slide1_url = check_plain(theme_get_setting('slide1_url','codigociudadano'));
   ?>
   <div id="slidebox" class="flexslider">
     <ul class="slides">
